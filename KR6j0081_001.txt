@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:25:36.769787
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:13
 #+TITLE: 梵天擇地法
 #+PROPERTY: CBETA_ID T18n0910
 #+PROPERTY: ID KR6j0081
